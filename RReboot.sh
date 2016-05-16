@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ssh -p 2020 infraobjects@192.168.32.223 'sudo reboot -f'
+ssh -p 2020 user@IP_address 'sudo reboot -f'
