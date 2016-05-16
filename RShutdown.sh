@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ssh -p 2020 infraobjects@192.168.32.223 'sudo shutdown -h now'
+ssh -p 2020 user@IP_Address 'sudo shutdown -h now'
